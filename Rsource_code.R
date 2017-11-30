@@ -3,7 +3,7 @@
 ##
 ## Author: Yannick Vandendijck
 ## Paper: Estimating the spatial covariance structure using 
-## the geoadditive model. Environ Ecol Stat (2017) 24:341–361.
+## the geoadditive model. Environ Ecol Stat (2017) 24:341â€“361.
 ## Last update: 20/01/2017
 ##
 

@@ -1,6 +1,8 @@
 # SpatialCovarianceStructure
 Estimating the spatial covariance structure using the geoadditive model. Environ Ecol Stat (2017) 24:341–361
+
 Y. Vandendijck, C. Faes, N. Hens
+
 https://link.springer.com/article/10.1007/s10651-017-0373-3
 
 
@@ -9,8 +11,10 @@ SpatialCovarianceStructure_SuppMaterials.pdf
   --> Peer reviewed author version of the paper
   --> Supplementary Materials of the paper
 
+
 Rsource_code.R
   --> R-code that contains all important functions to run an analysis of estimating the spatial covariance structure using the geoadditive model
+
 
 Analysis Meuse data with clustering.R	
 Analysis Meuse data with nonlinear covariate.R	
